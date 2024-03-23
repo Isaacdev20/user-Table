@@ -17,6 +17,12 @@
     color: whitesmoke;
 
 }
-#user-table tbody tr:nth-child(even){
+/*pintar coluna*/
+#user-table tbody td:nth-child(1){
+    background-color: yellow;
+}
+
+/*pintar coluna*/
+#user-table tbody tr:nth-child(1){
     background-color: yellow;
 }
